@@ -11,7 +11,9 @@ Feel free to reach out to me about Arsenal, Video games, Formula 1 or just to ch
 I am open to any software/hardware (or anything in between) summer '23 internship opportunities!
 
 - 📫 You can reach me at 
-  https://www.linkedin.com/in/abdelmoniem-hassan/
+ *  https://www.linkedin.com/in/abdelmoniem-hassan/
+ *  [hassaa73@mcmaster.ca](mailto:hassaa73@mcmaster.ca)
+  
   
 <!--
 **tekkersss1/tekkersss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
