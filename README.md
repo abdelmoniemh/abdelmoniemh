@@ -4,11 +4,11 @@ My name is Abdelmoniem Hassan and I am a third-year Computer Engineering student
 
 I have spent the last year working at RBC Captial Markets as a Software Developer working on a pricing and risk analytics financial library and the infrastructure around it. The bulk of my experience in this role is in C++ and Python, but I also did some work in Java, as well as some batch scripting.
 
-I will be spending the fall, and winter terms at McMaster completing my third year of studies and expect to graduate in summer '24.
+I will be spending the fall, and winter terms at McMaster completing my last year of studies and expect to graduate in summer '24.
 
 Feel free to reach out to me about Arsenal, Video games, Formula 1 or just to chat!
 
-I am open to any software/hardware (or anything in between) summer '23 internship opportunities!
+I am open to any software/hardware (or anything in between) new graduate opportunities for summer '24
 
 #### 📫 You can reach me at 
  *  https://www.linkedin.com/in/abdelmoniem-hassan/
