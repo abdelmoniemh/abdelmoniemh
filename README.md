@@ -12,7 +12,7 @@ I am open to any software/hardware (or anything in between) new graduate opportu
 
 #### 📫 You can reach me at 
  *  https://www.linkedin.com/in/abdelmoniem-hassan/
- *  [hassaa73@mcmaster.ca](mailto:hassaa73@mcmaster.ca)
+ *  [abdelmoniem.ha@gmail.com](mailto:abdelmoniem.ha@gmail.com)
   
   
 <!--
