@@ -1,24 +1,25 @@
-### Hi there 👋
+### Hi, I'm Abdelmoniem 👋
 
-My name is Abdelmoniem Hassan and I am a third-year Computer Engineering student at McMaster University.
+I'm a software engineer in New York working on electronic trading systems at **Bloomberg**, where I keep a low-latency trading platform running in production and build the tooling around it.
 
-I have spent the last year working at RBC Captial Markets as a Software Developer working on a pricing and risk analytics financial library and the infrastructure around it. The bulk of my experience in this role is in C++ and Python, but I also did some work in Java, as well as some batch scripting.
+- 🤖 **AI in production engineering:** building MCP servers, Claude Code plugins and a governed gateway that let AI agents investigate live systems safely, with SSO, per-user identity and human approval before any change
+- 🚀 **Release automation:** a Python release platform (build, verify, publish, rollback) on TeamCity, GitLab and AWS S3, plus Ansible infrastructure as code
+- 🔍 **Incident engineering:** root-causing issues from logs, FIX messages and monitoring data, then turning the lessons into guardrails
 
-I will be spending the fall, and winter terms at McMaster completing my last year of studies and expect to graduate in summer '24.
+Before Bloomberg, I was a **Quantitative Developer at RBC Capital Markets** in Toronto, migrating C++ pricing analytics to Linux and the cloud and running large pricing workflows through a FastAPI service on Argo Workflows and Azure. I studied Computer Engineering at **McMaster University**.
 
-Feel free to reach out to me about Arsenal, Video games, Formula 1 or just to chat!
+#### 🛠️ What I work with
 
-I am open to any software/hardware (or anything in between) new graduate opportunities for summer '24
+**Languages:** Python · C++ · Java · SQL · Bash  
+**Infrastructure:** Linux · Ansible · Docker · Kubernetes · Argo Workflows · AWS · Azure · TeamCity · GitLab  
+**AI tooling:** Model Context Protocol (MCP) · Claude Code · AI agent integration  
+**Domain:** electronic trading · FIX · market data · pricing and risk
 
-#### 📫 You can reach me at 
- *  https://www.linkedin.com/in/abdelmoniem-hassan/
- *  [abdelmoniem.ha@gmail.com](mailto:abdelmoniem.ha@gmail.com)
-  
-  
-<!--
-**tekkersss1/tekkersss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ⚽ Outside of work
 
-My name is Abdelmoniem Hassan and I am a second year Computer Engineering student at McMaster University.
+Ask me about Arsenal, Formula 1 or video games.
 
-- 📫 You can reach me at 
-  https://www.linkedin.com/in/abdelmoniem-hassan/
+#### 📫 Reach me
+
+- [LinkedIn](https://www.linkedin.com/in/abdelmoniem-hassan/)
+- [abdelmoniem.ha@gmail.com](mailto:abdelmoniem.ha@gmail.com)
